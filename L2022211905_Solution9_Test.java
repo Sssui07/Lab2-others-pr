@@ -2,7 +2,8 @@ import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
 /**
- * 测试类设计原则
+ *写的不错 
+ *测试类设计原则
  * 本测试类遵循等价类划分原则，通过不同输入条件对方法进行全面测试，确保其正确性。
  * 测试用例包括：
  * 1. 场景一：无不喜欢关系
